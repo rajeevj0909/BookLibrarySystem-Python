@@ -11,6 +11,7 @@ In the search window, for results where there is more than 1 result, a next butt
 E.g. Choose member ID, type 0, to get all the books which are currently available
 You can also choose what to search by.
 
+# Setup
 I have added a setup logfile for when the library is first being made 
 Instruction for ratio provided in MainMenu file.
-
+Tkinter library and matplotlib library needed to execute.
